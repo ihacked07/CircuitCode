@@ -1,0 +1,6 @@
+access/
+.claude/
+.circuitcode/
+node_modules/
+web/dist/
+*.log
